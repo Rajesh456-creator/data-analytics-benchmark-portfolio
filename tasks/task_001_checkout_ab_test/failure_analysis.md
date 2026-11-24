@@ -8,5 +8,3 @@
 | Unpooled/pooled z-test confusion | Significance flags right but p-values differ; only matters near threshold | Q3 |
 | Overclaiming causality | Treats overall difference as causal despite the ramp bug | Q5 reasoning |
 
-> Note: this section is meant to be filled in with real observed model outputs.
-> Add a dated table here after testing the task on an AI model (model name, answer given, which questions failed).
