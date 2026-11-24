@@ -1,0 +1,15 @@
+{
+  "q1_raw_conversion_control": 0.2538,
+  "q1_raw_conversion_variant": 0.1927,
+  "q2_clean_rows": 20000,
+  "q2_clean_conversion_control": 0.2433,
+  "q2_clean_conversion_variant": 0.1804,
+  "q2_clean_naive_lift_pp": -6.29,
+  "q3_desktop_lift_pp": 2.22,
+  "q3_mobile_lift_pp": 2.41,
+  "q3_desktop_significant_5pct": true,
+  "q3_mobile_significant_5pct": true,
+  "q4_standardised_lift_pp": 2.32,
+  "q4_standardised_significant_5pct": true,
+  "q5_recommendation": "ship_variant"
+}
